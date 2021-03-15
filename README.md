@@ -7,8 +7,8 @@
 На тестирование затрачено: 0.5 часов.
 
 В результате тестирования выявлены следующие дефекты:
-* [Баг №1](https://github.com/dunaev-k-s/keyvalidator/issues/1 "Ссылка на баг")
-* [Баг №2](https://github.com/dunaev-k-s/keyvalidator/issues/2 "Ссылка на баг")
+* [Валидные ключи не прошли валидацию в KeyValidator](https://github.com/dunaev-k-s/keyvalidator/issues/1 "Ссылка на баг")
+* [Невалидный ключ прошёл валидацию в KeyValidator](https://github.com/dunaev-k-s/keyvalidator/issues/2 "Ссылка на баг")
 
 ## Описание процесса тестирования
 
